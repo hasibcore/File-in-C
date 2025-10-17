@@ -1,3 +1,4 @@
+//using fputs,gets,fprints
 #include<stdio.h>
 int main()
 {
